@@ -18,7 +18,7 @@ const Updates = () => {
           <h1>Latest Updates</h1>
         </section>
 
-        <section className="filters">
+        <section className="filters" style={{ display: "none" }}>
           <div className="filter active">
             <p>All</p>
           </div>

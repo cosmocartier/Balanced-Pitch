@@ -148,6 +148,7 @@ section.rights {
   position: relative;
   width: 100vw;
   color: var(--color-dark);
+  background-color: var(--color-accent);
   text-align: center;
   padding: 4em 1em;
 }
